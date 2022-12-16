@@ -33,9 +33,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section>
-        <p className={utilStyles.headingMd}>
-          あまり強い言葉をつかうなよ。弱く見えるぞ。
-        </p>
+        <p className={utilStyles.headingMd}>憧れは理解から最も遠い感情だよ。</p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
